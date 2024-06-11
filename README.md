@@ -112,8 +112,6 @@ HandTrackingUnity3D/
 The 3D model files used in this project can be accessed via the following cloud drive link:
 [Download 3D File](https://yourcloudlink.com/3dmodels)
 
-## Contributing
-We welcome contributions to enhance the functionality and features of this project. Please fork the repository, create a new branch, and submit a pull request with your changes.
 
 
 Feel free to customize and enhance the script according to your project's needs. If you encounter any issues or have suggestions for improvement, please feel free to contribute or open an issue.

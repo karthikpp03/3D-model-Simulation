@@ -115,7 +115,7 @@ HandTrackingUnity3D/
 
 ## 3D Model File
 The 3D model files used in this project can be accessed via the following cloud drive link:
-[Download 3D File](https://yourcloudlink.com/3dmodels)
+[Download 3D File](https://drive.google.com/drive/folders/1UDVkcNxp8UWkqQ-9EYB-01mVB__-7vA7?usp=sharing)
 
 
 

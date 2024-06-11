@@ -18,9 +18,9 @@
 
 ## Sample Images
 
-<img src="pose 1.png" alt="Dashboard Screenshot" width="600"/>
-<img src="pose 2.png" alt="Dashboard Screenshot" width="600"/>
-<img src="pose 3.png" alt="Dashboard Screenshot" width="600"/>
+<img src="Images/1.jpeg" alt="Dashboard Screenshot" width="600"/>
+<img src="Images/2.jpeg" alt="Dashboard Screenshot" width="600"/>
+<img src="Images/3.jpeg" alt="Dashboard Screenshot" width="600"/>
 
 
 ## Table of Contents

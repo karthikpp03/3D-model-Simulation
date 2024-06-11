@@ -1,13 +1,16 @@
-Sure! Here is the updated README file with more icons and a link to the 3D model file stored in a cloud drive:
-
----
-
 # 🌟 Hand Tracking and Visualization in Unity 3D using OpenCV 🌟
 
-![Hand Tracking](https://img.shields.io/badge/Hand_Tracking-OpenCV-blue.svg)
-![Unity 3D](https://img.shields.io/badge/Unity_3D-Game_Development-black.svg)
-![Python](https://img.shields.io/badge/Python-3.x-yellow.svg)
-![C#](https://img.shields.io/badge/C%23-Scripting-purple.svg)
+## Technologies Used
+
+<p align="center">  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+
+
+## Sample Images
+
+<img src="pose 1.png" alt="Dashboard Screenshot" width="600"/>
+<img src="pose 2.png" alt="Dashboard Screenshot" width="600"/>
+<img src="pose 3.png" alt="Dashboard Screenshot" width="600"/>
+
 
 ## Table of Contents
 - [Introduction](#introduction)

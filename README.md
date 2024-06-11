@@ -1,5 +1,10 @@
 # 🌟 Hand Tracking and Visualization in Unity 3D using OpenCV 🌟
 
+![Hand Tracking](https://img.shields.io/badge/Hand_Tracking-OpenCV-blue.svg)
+![Unity 3D](https://img.shields.io/badge/Unity_3D-Game_Development-black.svg)
+![Python](https://img.shields.io/badge/Python-3.x-yellow.svg)
+![C#](https://img.shields.io/badge/C%23-Scripting-purple.svg)
+
 ## Technologies Used
 
 <div align="center">
@@ -126,3 +131,4 @@ Happy coding!
   <a href="https://instagram.com/ig_._karthik" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" alt="ig_._karthik" height="100" width="100" /></a>
   <a href="https://www.youtube.com/@KARTHIK4332" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="karthik plays" height="100" width="100" /></a>
 </p>
+
